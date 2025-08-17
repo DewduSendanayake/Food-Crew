@@ -3,7 +3,7 @@
 > _Because even AIs get hungry for good architecture._ 🤖🍕
 
 
-YummyCrew is an experimental **multi-agent system** built with [CrewAI](https://github.com/joaomdmoura/crewAI), wrapped in a Flask backend.  
+YummyCrew is an experimental **multi-agent system** built with CrewAI, wrapped in a Flask backend.  
 Its mission? **To talk about food, recommend items, and make you smile—while also showing off modern AI coordination.**  
 
 Think of it like a digital restaurant staff:  
