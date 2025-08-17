@@ -1,0 +1,94 @@
+{
+  "merchant_id": "QR3F75H29EG21",
+  "mode": "upsert",
+  "items": [
+    {
+      "productId": "15",
+      "name": "",
+      "alternateName": "Beef Shawarma",
+      "description": "Grilled beef wrapped in soft pita with garlic sauce, fresh veggies, and a hint of lemon.",
+      "tags": ["shawarma", "beef", "wrap"],
+      "price": 3800,
+      "categoryIds": "EV23APGPJVQY0",
+      "available": true,
+      "merchant_id": "data-ai-index",
+      "code": "",
+      "sku": "",
+      "defaultTaxRates": "",
+      "autoManage": true,
+      "enabledOnline": ""
+    },
+    {
+      "item_id": "16",
+      "item_name": "Egg Fried Rice",
+      "description": "Stir-fried rice with scrambled eggs, spring onions, soy sauce, and a touch of pepper.",
+      "tags": ["rice", "egg", "fried"],
+      "price": 2800,
+      "vendor": "data-ai-index"
+    },
+    {
+      "item_id": "17",
+      "item_name": "Veg Roti Roll",
+      "description": "A wholesome roll filled with mixed vegetables, seasoned and wrapped in a soft roti.",
+      "tags": ["veg", "roti", "snack"],
+      "price": 1200,
+      "vendor": "data-ai-index"
+    },
+    {
+      "item_id": "18",
+      "item_name": "Faluda Drink",
+      "description": "A sweet and creamy drink with basil seeds, jelly, rose syrup, and ice cream.",
+      "tags": ["dessert", "drink", "faluda"],
+      "price": 1000,
+      "vendor": "data-ai-index"
+    },
+    {
+      "item_id": "19",
+      "item_name": "Fish Cutlet",
+      "description": "Deep-fried balls made of spiced fish and potato mash—perfect for snacking.",
+      "tags": ["fish", "cutlet", "snack"],
+      "price": 800,
+      "vendor": "data-ai-index"
+    },
+    {
+      "item_id": "20",
+      "item_name": "Devilled Chicken",
+      "description": "A fiery Sri Lankan stir-fry of chicken with capsicum, onions, and chili sauce.",
+      "tags": ["chicken", "devilled", "spicy"],
+      "price": 4200,
+      "vendor": "data-ai-index"
+    },
+    {
+      "item_id": "21",
+      "item_name": "Milk Tea",
+      "description": "Classic Sri Lankan milk tea brewed with Ceylon tea leaves and fresh milk.",
+      "tags": ["tea", "milk", "beverage"],
+      "price": 600,
+      "vendor": "data-ai-index"
+    },
+    {
+      "item_id": "22",
+      "item_name": "Parata with Curry",
+      "description": "Flaky layered flatbread served with a side of spicy chicken or dhal curry.",
+      "tags": ["parata", "curry", "dinner"],
+      "price": 2500,
+      "vendor": "data-ai-index"
+    },
+    {
+      "item_id": "23",
+      "item_name": "Fruit Salad with Ice Cream",
+      "description": "A fresh mix of seasonal fruits topped with vanilla ice cream and syrup.",
+      "tags": ["fruit", "dessert", "ice cream"],
+      "price": 1700,
+      "vendor": "data-ai-index"
+    },
+    {
+      "item_id": "24",
+      "item_name": "Lamprais",
+      "description": "A traditional Dutch Burgher dish of rice, meat, and sambol wrapped in banana leaf.",
+      "tags": ["lamprais", "rice", "banana leaf"],
+      "price": 5000,
+      "vendor": "data-ai-index"
+    }
+  ]
+}
